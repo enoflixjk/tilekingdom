@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enoflixjk.github.io/tilekingdom/sitemap.xml
